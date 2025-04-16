@@ -9,5 +9,5 @@ My research is in experience-driven trustworthy machine learning. I investigate 
 **📫 Address:** 1210 W. Dayton St., Room 2262, Madison, WI 53706, USA\
 **📃 CV:** [CV](https://kyledomico.com/cv.pdf)\
 **🎓 Google Scholar:** [Google
-Scholar](https://scholar.google.com/citations?user=X4UHBHkAAAAJ&hl=en)\
+Scholar](https://scholar.google.com/citations?user=X4UHBHkAAAAJ&hl=en)
 
