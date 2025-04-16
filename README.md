@@ -4,7 +4,7 @@ My name is Kyle Domico. I am a Ph.D. student in the Department of Computer Scien
 
 My research is in experience-driven trustworthy machine learning. I investigate reinforcement learning-based attacks and defenses for deployed machine learning systems.
 
-**🌐 Website:** [Kyle Domico]([https://sheatsley.me](https://kyledomico.com/))\
+**🌐 Website:** [Kyle Domico](https://kyledomico.com/)\
 **📧 Email:** [domico@cs.wisc.edu](mailto:domico@cs.wisc.edu)\
 **📫 Address:** 1210 W. Dayton St., Room 2262, Madison, WI 53706, USA\
 **📃 CV:** [CV](https://kyledomico.com/cv.pdf)\
