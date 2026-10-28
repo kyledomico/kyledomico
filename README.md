@@ -2,7 +2,7 @@
 
 My name is Kyle Domico. I am a Ph.D. student in the Department of Computer Sciences at the University of Wisconsin-Madison 🦡. I am a member of the Madison Security and Privacy (MadS&P) research group and advised by Prof. Patrick McDaniel. Previously, I earned my M.S. in Computer Sciences at the University of Wisconsin-Madison 🦡 and my B.S. in Computer Science and Engineering at Penn State University 🦁.
 
-I am a security researcher whose core methodology is the application of AI. I am particularly interested in finding practical use-cases of AI in cybersecurity, though I am fond to exploring new areas
+I am a security researcher whose core methodology is the application of AI. I am particularly interested in finding practical use-cases of AI in cybersecurity, though I am fond to exploring new areas.
 
 **🌐 Website:** [Kyle Domico](https://kyledomico.com/)\
 **📧 Email:** [domico@cs.wisc.edu](mailto:domico@cs.wisc.edu)\
